@@ -1,6 +1,8 @@
 # Ubuntu autoinstall config file sample by Diolinux
 
 doc: https://canonical-subiquity.readthedocs-hosted.com/en/latest/reference/autoinstall-reference.html
+
+
 This is a sample file, it can be used as reference for your own installations. 
 The password is: 123
 
